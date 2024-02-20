@@ -18,7 +18,7 @@ article {
   justify-content: space-evenly;
   align-items: flex-start;
   align-content: flex-start;
-  height: 390px;
+  min-height: 390px;
   width: 390px;
   padding: 20px;
   margin: 20px;
@@ -97,4 +97,56 @@ article {
 
 .ownerBold {
   font-weight: bold;
+}
+
+.amenitiess {
+  margin-top: 40px;
+  width: 100%;
+}
+
+.amenitiess h2 {
+  font-size: 16px;
+  border-bottom: solid 1px #dddddd;
+}
+
+.amenitiess ul {
+  list-style-type: none;
+}
+
+.tv {
+  background: url("../images/icon_tv.png");
+}
+
+.pet {
+  background: url("../images/icon_pets.png");
+}
+
+.wifi {
+  background: url("../images/icon_wifi.png");
+}
+
+.list-icon {
+  padding-left: 35px;
+  padding-top: 5px;
+  background-position: left-top;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.reviews {
+  font-size: 16px;
+  margin-top: 40px;
+  width: 100%;
+}
+
+.reviews h2 {
+  border-bottom: solid 1px #dddddd;
+}
+.reviews ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.reviews p {
+  font-size: 12px;
 }
