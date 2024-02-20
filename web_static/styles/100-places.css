@@ -148,6 +148,13 @@ article {
   padding-left: 0;
 }
 
+.reviews h3 {
+  font-size: 14px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
 .reviews p {
   font-size: 12px;
+  margin-top: 5px;
 }
